@@ -1,0 +1,110 @@
+City;State;Median Age;Male Population;Female Population;Total Population;Number of Veterans;Foreign-born;Average Household Size;State Code;Race;Count
+Los Angeles;California;35.0;1958998;2012898;3971896;85417;1485425;2.86;CA;White;2177650
+Metairie;Louisiana;41.6;69515;76943;146458;7187;19871;2.39;LA;White;124270
+Boca Raton;Florida;47.3;44760;48466;93226;4367;21117;2.22;FL;White;80781
+Quincy;Massachusetts;41.0;44129;49500;93629;4147;32935;2.39;MA;Hispanic or Latino;2566
+Union City;California;38.5;38599;35911;74510;1440;32752;3.46;CA;White;16845
+Lakeland;Florida;38.1;47840;56570;104410;7390;11592;2.56;FL;Black or African-American;25111
+Antioch;California;34.0;54733;55809;110542;5681;24942;3.31;CA;Hispanic or Latino;35563
+Mount Pleasant;South Carolina;42.7;39429;41880;81309;3981;4701;2.5300000000000002;SC;Asian;1827
+Des Moines;Iowa;34.5;103726;106591;210317;11780;23857;2.41;IA;Hispanic or Latino;25306
+Jurupa Valley;California;33.8;49430;50884;100314;3833;25338;3.87;CA;Asian;4992
+Daly City;California;39.7;53817;52757;106574;3782;56640;3.26;CA;Black or African-American;5401
+Tacoma;Washington;37.7;100914;107036;207950;19040;31863;2.48;WA;American Indian and Alaska Native;5549
+Milwaukee;Wisconsin;31.6;286315;313839;600154;20615;58321;2.51;WI;Hispanic or Latino;110335
+Asheville;North Carolina;37.9;42100;46407;88507;4973;6630;2.18;NC;Hispanic or Latino;4146
+West Palm Beach;Florida;39.6;49262;57520;106782;4917;30675;2.5300000000000002;FL;Hispanic or Latino;26132
+Bayonne;New Jersey;39.7;32705;33598;66303;2225;21899;2.62;NJ;Black or African-American;7581
+New Haven;Connecticut;29.9;63765;66545;130310;2567;25871;2.48;CT;Black or African-American;43356
+Coral Springs;Florida;37.2;63316;66186;129502;4724;38552;3.17;FL;Asian;6573
+Atlanta;Georgia;33.8;223960;239915;463875;18572;32016;2.15;GA;Hispanic or Latino;18653
+Redlands;California;36.2;33993;37035;71028;3445;8681;2.8200000000000003;CA;Asian;6255
+Toms River;New Jersey;43.7;43864;43886;87750;5042;6852;2.71;NJ;Black or African-American;3703
+Palmdale;California;32.6;76361;81989;158350;6388;41974;3.54;CA;Black or African-American;27398
+Youngs;Ohio;37.5;30758;33851;64609;3620;1058;2.22;OH;American Indian and Alaska Native;875
+Frederick;Maryland;36.1;33146;36336;69482;3870;14211;2.48;MD;Black or African-American;13372
+Fargo;North Dakota;30.7;60560;58690;119250;6154;9428;2.18;ND;American Indian and Alaska Native;3102
+Cedar Park;Texas;34.4;31248;33589;64837;3090;5207;3.05;TX;American Indian and Alaska Native;219
+Fort Collins;Colorado;29.6;80893;80288;161181;8425;9704;2.45;CO;White;150568
+Portsmouth;Virginia;33.6;45900;50301;96201;10261;1815;2.54;VA;Hispanic or Latino;3896
+Fremont;California;38.3;114383;117808;232191;4629;109427;3.12;CA;White;67294
+Bloomington;Illinois;35.1;37972;40323;78295;3888;7287;2.34;IL;Hispanic or Latino;3461
+Woodbury;Minnesota;37.7;31982;35868;67850;2732;9477;2.719999999999999;MN;Hispanic or Latino;3258
+Mesa;Arizona;36.9;234998;236835;471833;31808;57492;2.68;AZ;Black or African-American;22699
+Camden;New Jersey;27.9;36437;39694;76131;1425;11317;3.0;NJ;Hispanic or Latino;41473
+Saint Louis;Missouri;35.0;153026;162659;315685;17060;21802;2.16;MO;White;155574
+Gresham;Oregon;36.7;53866;56716;110582;6326;17860;2.67;OR;Black or African-American;7721
+Lorain;Ohio;35.6;30844;32807;63651;4905;1531;2.52;OH;White;46667
+Rochester;Minnesota;35.0;54934;57282;112216;6888;17763;2.55;MN;Asian;9839
+German;Maryland;34.9;41115;43007;84122;2443;27877;2.95;MD;American Indian and Alaska Native;1232
+Daly City;California;39.7;53817;52757;106574;3782;56640;3.26;CA;American Indian and Alaska Native;893
+South San Francisco;California;39.4;34177;33094;67271;1839;27528;3.33;CA;White;28135
+Manchester;New Hampshire;37.3;54845;55378;110223;5473;14506;2.4;NH;Black or African-American;6896
+Longview;Texas;36.8;40065;41525;81590;5512;8782;2.55;TX;Asian;1810
+Richardson;Texas;35.5;54676;56151;110827;4797;29579;2.83;TX;American Indian and Alaska Native;1439
+Boulder;Colorado;29.0;56342;51000;107342;4061;12993;2.24;CO;Hispanic or Latino;9795
+Yonkers;New York;38.0;96580;104538;201118;4801;61247;2.8;NY;White;129492
+Fremont;California;38.3;114383;117808;232191;4629;109427;3.12;CA;Black or African-American;7762
+Pharr;Texas;26.9;35242;41293;76535;1376;25532;3.67;TX;White;73694
+Redding;California;38.8;42530;49049;91579;6926;5181;2.42;CA;American Indian and Alaska Native;4352
+Sunnyvale;California;35.7;79480;72280;151760;3900;71441;2.74;CA;Asian;69472
+Fontana;California;29.5;100644;106828;207472;4076;61448;4.15;CA;White;85044
+Fort Lauderdale;Florida;42.8;93948;84639;178587;8897;47582;2.38;FL;Asian;3791
+Fort Wayne;Indiana;34.7;124815;133329;258144;13539;19146;2.45;IN;Asian;13596
+Coral Springs;Florida;37.2;63316;66186;129502;4724;38552;3.17;FL;American Indian and Alaska Native;1262
+Lancaster;California;30.9;80668;80445;161113;7892;17247;3.25;CA;Hispanic or Latino;57423
+Springfield;Missouri;34.1;81057;85741;166798;12291;7765;2.12;MO;Black or African-American;10026
+Flower Mound;Texas;40.2;35200;35824;71024;4217;6860;3.01;TX;White;61433
+Aurora;Colorado;34.2;177899;180971;358870;25158;65816;2.8200000000000003;CO;White;239803
+Jacksonville;Florida;35.7;419203;448828;868031;75432;85650;2.62;FL;Black or African-American;282692
+Sandy Springs;Georgia;35.4;48570;56777;105347;3015;19837;2.4;GA;Black or African-American;15420
+Carlsbad;California;42.1;55119;58347;113466;6031;17689;2.68;CA;Asian;11948
+Grand Prairie;Texas;33.1;90811;96944;187755;7073;44888;3.18;TX;American Indian and Alaska Native;1754
+Evansville;Indiana;38.0;57198;60481;117679;9063;3169;2.25;IN;White;100055
+Saint Cloud;Minnesota;30.7;34311;33942;68253;5012;5757;2.41;MN;White;59794
+Weston;Florida;38.6;32956;36991;69947;1507;30876;3.34;FL;American Indian and Alaska Native;128
+Greensboro;North Carolina;35.5;132251;153093;285344;14011;26667;2.36;NC;Asian;12683
+Vallejo;California;37.8;58379;62890;121269;8103;30592;2.83;CA;Asian;34753
+Bellflower;California;33.4;38936;39498;78434;2154;24607;3.58;CA;Hispanic or Latino;42472
+Kenner;Louisiana;36.9;33993;33113;67106;2485;12352;2.5700000000000003;LA;Asian;2729
+Albuquerque;New Mexico;36.0;273323;285808;559131;37443;58200;2.49;NM;Black or African-American;26774
+Town 'n' Country;Florida;38.1;39410;39586;78996;4534;22135;2.61;FL;Black or African-American;9575
+Cary;North Carolina;39.9;78932;81582;160514;7426;30008;2.61;NC;Asian;25124
+Loveland;Colorado;37.6;37042;38146;75188;5667;3050;2.5300000000000002;CO;Hispanic or Latino;13567
+Menifee;California;37.1;42866;44297;87163;6821;12481;3.06;CA;American Indian and Alaska Native;1639
+Mobile;Alabama;38.0;91275;103030;194305;11939;7234;2.4;AL;Asian;5518
+Orem;Utah;26.1;48695;45762;94457;2828;12808;3.26;UT;Black or African-American;1837
+Baltimore;Maryland;34.7;294027;327822;621849;29540;49857;2.51;MD;American Indian and Alaska Native;7730
+Brownsville;Texas;30.6;87689;96199;183888;4211;53301;3.48;TX;Black or African-American;1239
+Riverview;Florida;32.2;44210;45536;89746;6943;12240;3.22;FL;Hispanic or Latino;23317
+Lafayette;Indiana;33.5;34313;36857;71170;5045;5697;2.19;IN;Hispanic or Latino;9151
+Duluth;Minnesota;34.7;41271;44855;86126;5015;2258;2.25;MN;Hispanic or Latino;1981
+Poinciana;Florida;34.2;38142;35801;73943;2933;14349;3.93;FL;Asian;1409
+Everett;Washington;37.0;56212;51800;108012;7880;19499;2.36;WA;Asian;9807
+Southfield;Michigan;41.6;31369;41808;73177;4035;4011;2.27;MI;Black or African-American;54200
+Duluth;Minnesota;34.7;41271;44855;86126;5015;2258;2.25;MN;Black or African-American;3891
+Palm Coast;Florida;48.8;39489;42632;82121;7950;9084;2.76;FL;Black or African-American;10786
+Pawtucket;Rhode Island;39.2;36072;35511;71583;3173;17884;2.41;RI;Asian;2150
+Reno;Nevada;35.7;122292;119151;241443;17089;37070;2.46;NV;White;197335
+Layton;Utah;29.5;37748;36394;74142;3811;4268;3.24;UT;American Indian and Alaska Native;1674
+Lewisville;Texas;31.6;52776;52032;104808;4211;24865;2.7800000000000002;TX;White;70278
+Guaynabo;Puerto Rico;42.2;33066;37426;70492;;;;PR;Hispanic or Latino;69936
+Livermore;California;36.7;41522;46595;88117;3063;13959;2.91;CA;Black or African-American;3199
+Southfield;Michigan;41.6;31369;41808;73177;4035;4011;2.27;MI;American Indian and Alaska Native;983
+Memphis;Tennessee;34.1;312237;343523;655760;31189;43318;2.55;TN;Black or African-American;420983
+Lee's Summit;Missouri;36.8;48353;46715;95068;6624;3803;2.68;MO;Asian;3013
+Flower Mound;Texas;40.2;35200;35824;71024;4217;6860;3.01;TX;Asian;6577
+Norwalk;Connecticut;42.4;40880;47603;88483;2877;22328;2.7;CT;Hispanic or Latino;24682
+San Antonio;Texas;33.1;721405;748419;1469824;109089;208046;2.93;TX;Asian;53933
+Hemet;California;36.8;38622;45251;83873;5613;13330;2.969999999999999;CA;Hispanic or Latino;37448
+Abilene;Texas;31.3;65212;60664;125876;9367;8129;2.64;TX;Asian;2929
+Bolingbrook;Illinois;33.7;36295;35801;72096;2951;15212;3.42;IL;American Indian and Alaska Native;323
+Roswell;Georgia;38.8;48637;45859;94496;3325;16501;2.7;GA;Asian;7240
+Huntsville;Alabama;38.1;91764;97350;189114;16637;12691;2.18;AL;American Indian and Alaska Native;1755
+Livonia;Michigan;47.4;45369;49264;94633;5397;7175;2.52;MI;White;87383
+Fort Worth;Texas;32.6;414126;422843;836969;39182;143404;2.88;TX;White;575180
+Tracy;California;35.5;43156;43937;87093;3025;25410;3.42;CA;American Indian and Alaska Native;2120
+Nashville;Tennessee;34.1;314231;340365;654596;27942;88193;2.39;TN;White;432447
+Union City;New Jersey;35.4;35376;33773;69149;705;40553;2.85;NJ;Asian;4044
+Independence;Missouri;38.6;54348;62907;117255;10220;4911;2.33;MO;White;98940
+Los Angeles;California;35.0;1958998;2012898;3971896;85417;1485425;2.86;CA;White;2177650

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Demography", "Demography.dtproj", "{7A0EBE1A-FB34-4790-8F72-7ACD96C9EFF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A0EBE1A-FB34-4790-8F72-7ACD96C9EFF7}.Development|Default.ActiveCfg = Development
+		{7A0EBE1A-FB34-4790-8F72-7ACD96C9EFF7}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E133616-0333-4695-B68F-CF8049FA27EE}
+	EndGlobalSection
+EndGlobal
